@@ -52,6 +52,11 @@ const Index = () => {
             </div>
           </div>
 
+          {/* WhatsApp Button below hero image */}
+          <div className="flex justify-center mb-10">
+            <WhatsAppButton />
+          </div>
+
           {/* Emotional Appeal Cards */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10 max-w-3xl mx-auto">
             <div className="card-3d p-6 text-center">
