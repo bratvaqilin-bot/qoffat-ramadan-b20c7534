@@ -47,7 +47,7 @@ const Index = () => {
               {/* Free Delivery Badge */}
               <div className="absolute bottom-4 right-4 bg-secondary text-foreground font-cairo font-bold text-base px-5 py-2 rounded-xl glow-border flex items-center gap-2">
                 <Truck className="w-5 h-5 text-primary" />
-                توصيل مجاني إلى فاس
+                توصيل مجاني إلى جميع المدن
               </div>
             </div>
           </div>
@@ -109,7 +109,7 @@ const Index = () => {
                 599 درهم فقط
               </p>
               <p className="font-cairo text-primary-foreground/80 text-sm mt-1">
-                🚚 التوصيل مجاني إلى مدينة فاس
+                🚚 التوصيل مجاني إلى جميع المدن
               </p>
             </div>
           </div>
@@ -140,7 +140,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border/50 py-6 text-center">
         <p className="font-cairo text-muted-foreground text-sm">
-          © 2025 Store Makaoui — فاس، المغرب 🇲🇦
+          © 2026 Store Makaoui — فاس، المغرب 🇲🇦
         </p>
       </footer>
     </div>
