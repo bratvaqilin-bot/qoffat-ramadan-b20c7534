@@ -5,7 +5,7 @@ const MESSAGE = "السلام عليكم، أنا مهتم بقفة رمضان �
 
 const WhatsAppButton = () => {
   const handleClick = () => {
-    const url = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(MESSAGE)}`;
+    const url = `https://web.whatsapp.com/send?phone=${WHATSAPP_NUMBER}&text=${encodeURIComponent(MESSAGE)}`;
     window.open(url, "_blank", "noopener,noreferrer");
   };
 
