@@ -41,8 +41,8 @@ const Index = () => {
               />
               {/* Price Badge */}
               <div className="absolute top-2 left-2 md:top-4 md:left-4 bg-gradient-gold text-primary-foreground font-cairo font-black text-lg md:text-2xl px-3 py-2 md:px-6 md:py-3 rounded-xl md:rounded-2xl shadow-gold-lg transform -rotate-6">
-                <span className="block text-xs md:text-sm font-bold line-through opacity-70">699 درهم</span>
-                599 درهم
+                <span className="block text-xs md:text-sm font-bold line-through opacity-70">599 درهم</span>
+                449 درهم
               </div>
               {/* Free Delivery Badge */}
               <div className="absolute bottom-2 right-2 md:bottom-4 md:right-4 bg-secondary text-foreground font-cairo font-bold text-xs md:text-base px-3 py-1.5 md:px-5 md:py-2 rounded-lg md:rounded-xl glow-border flex items-center gap-1.5 md:gap-2">
@@ -111,7 +111,7 @@ const Index = () => {
                 كلشي فقفة وحدة بثمن استثنائي
               </p>
               <p className="font-amiri text-4xl font-bold text-primary-foreground">
-                599 درهم فقط
+                449 درهم فقط
               </p>
               <p className="font-cairo text-primary-foreground/80 text-sm mt-1">
                 🚚 التوصيل مجاني إلى جميع المدن
